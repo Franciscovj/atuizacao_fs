@@ -1,0 +1,5 @@
+ligas = [
+         'brasil/brasileirao-betano',
+
+
+]  
